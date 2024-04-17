@@ -1,0 +1,47 @@
+body {
+    padding: 20px;
+    color: #004085; /* Màu vàng */
+}
+
+.profile-container {
+    display: flex;
+    background-color: #004085; /* Màu đen đậm */
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 193, 7, 0.1); /* Màu vàng nhạt cho đổ bóng */
+}
+
+
+.profile-details {
+    color: #004085; /* Màu vàng */
+}
+
+.profile-details h2 {
+    color: #004085; /* Màu vàng */
+}
+
+.profile-details table {
+    width: 100%;
+}
+
+.profile-details table th {
+    width: 30%;
+    text-align: right;
+    padding: 10px;
+    font-weight: normal;
+    color: #004085; /* Màu vàng */
+}
+
+.profile-details table td {
+    padding: 10px;
+}
+
+button {
+    background-color: #000;
+    color: #fff;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
